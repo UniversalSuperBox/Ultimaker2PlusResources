@@ -1,3 +1,7 @@
 The 0.4mm_thin_wall.stl file was created by whitemousegary and uploaded to Thingiverse.
 You can find it here, with a bunch of other goodies:
 http://www.thingiverse.com/thing:52946
+
+
+The 20mm hollow cube comes from 3d-ME, at 
+http://www.thingiverse.com/thing:271736/
